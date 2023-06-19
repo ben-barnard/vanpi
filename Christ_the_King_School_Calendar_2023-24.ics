@@ -1,0 +1,272 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//ChatGPT//EN
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230804
+SUMMARY:Last Day of Summer Camp & Used Uniform Donation Day.  Come and take what you need, leave what you don't need.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230811
+SUMMARY:Diocesan Regional meeting.  Dr. Boyle at the Evermode Institute for all teachers -all day
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230814
+SUMMARY:New Teacher Orientation 9:30 AM-11:30 AM;  Teacher Aides Meeting 12:30 PM – 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230815
+SUMMARY:Staff Retreat at Evermode Institute
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230816
+SUMMARY:Teachers: Mass; Morning Faculty Meeting; OSHA in-service11:00PM -12:00PM; 12:30 lunch Roesch Hall;  PM Meetings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230817
+SUMMARY:Teachers sharing day. Trainings.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230818
+SUMMARY:Meet the Teachers for NEW K-8 families: 8:00AM-9:00AM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230821
+SUMMARY:First Day of School-Students grades Preschool thru 8th New Families can arrive at 7:30 AM.  Day is 8:10 AM –1:45 PM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230823
+SUMMARY:First School Mass – 8:30 AM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230808
+SUMMARY:/28—on  Full day classes with morning and afternoon AWP; Preschool, K-8: 8:10 AM - 3:00 PM Dismissal. AWP AM & PM.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230904
+SUMMARY:Labor Day (No School)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230905
+SUMMARY:Faculty Meeting 1:45 PM Dismissal  &  Preschool 1:45 PM Dismissal (AWP Available for all)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230929
+SUMMARY:Field trip Challenger Learning Center – 8th graders
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231002
+SUMMARY:Living Rosary 2:00 PM  Features Grades 3 and 4 in Church with Choir
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231002
+SUMMARY:Picture Day
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231003
+SUMMARY:Faculty Meeting  1:45 PM Dismissal &  Preschool 1:45 PM Dismissal (AWP Available for all)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231004
+SUMMARY:Mission Mass at the Cathedral.  4th grade attends this special Mass at 11:00AM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231009
+SUMMARY:Columbus Day (No School)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231020
+SUMMARY:End of First Quarter  (Report cards emailed to parents on Oct. 27th)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231026
+SUMMARY:K-8-1:45 PM Dismissal NO PM AWP &  Preschool 1:45 PM Dismissal No PM AWP - Parent/Teacher
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231027
+SUMMARY:Parent/Teacher Conferences (8:00 AM – 11:00 AM) No School for Students
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231101
+SUMMARY:All Saint’s Day Mass, Holy Day of Obligation.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231107
+SUMMARY:Faculty Meeting - 1:45 PM Dismissal &  Preschool 1:45 PM Dismissal (AWP Available for all)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231109
+SUMMARY:5th grade “Afternoon of service” at St. Agnes 12:45-2:15PM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231120
+SUMMARY:1:45PM dismissal and NO PM AWP & Preschool 1:45PM dismissal – NO PM AWP.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231127
+SUMMARY:School Resumes (First week of Advent)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231202
+SUMMARY:Speech Meet - All Catholic Schools 7th grade students at St. Aloysius  9-12PM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231205
+SUMMARY:Faculty Meeting - 1:45 PM Dismissal - NO PM AWP &  Preschool 1:45 PM Dismissal- NO PM AWP
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231206
+SUMMARY:No Mass, Picture re-takes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231208
+SUMMARY:School Mass – Immaculate Conception, Holy Day of Obligation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231220
+SUMMARY:1:45 PM Dismissal  NO PM AWP– &  Preschool 1:45 PM Dismissal  NO PM AWP
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240103
+SUMMARY:School resumes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240109
+SUMMARY:Faculty Meeting - 1:45 PM Dismissal  &  Preschool 1:45 PM Dismissal (AWP Available for all)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240112
+SUMMARY:End of Quarter (Report Cards emailed on Friday, January 19th)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240115
+SUMMARY:Martin Luther King, Jr. (No School)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240128
+SUMMARY:Parish Appreciation Sunday: 10:00 AM Sunday Children's Cougar Chorus sings. CSW Kick off
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240131
+SUMMARY:Distinguished Alumni honored at 8:30 AM Mass
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240202
+SUMMARY:End of Catholic Schools’ Week 11:15 AM Dismissal – NO PM AWP
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240206
+SUMMARY:Faculty Meeting 1:45 PM Dismissal &  Preschool 1:45 PM Dismissal (AWP Available for all)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240209
+SUMMARY:Spring Pictures
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240214
+SUMMARY:Ash Wednesday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240219
+SUMMARY:President’s Day (No School)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240223
+SUMMARY:Science/History Fair in the Parish Center (Open 2/24 & 2/25 after Masses for parishioner viewing)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240226
+SUMMARY:CTK School hosts Art Showcase. Projects due from other schools to CTK Feb. 26th.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240305
+SUMMARY:Faculty Meeting  - 1:45 PM Dismissal & Preschool 1:45 PM Dismissal (AWP Available for all)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240308
+SUMMARY:School not in session – Teacher institute day (Our teachers visit other Catholic Schools)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240312
+SUMMARY:Art Showcase at CTK Parish Center closes at 4:00PM with awards
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240315
+SUMMARY:End of 3rd quarter (Report cards emailed to families March 22nd)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240315
+SUMMARY:St. Patrick’s Day Parties
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240319
+SUMMARY:Illinois – March For Life
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240322
+SUMMARY:Grandparents Day 11:15AM Dismissal NO PM AWP
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240327
+SUMMARY:Student Led Living Stations of the Cross – Church – 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240328
+SUMMARY:Holy Thursday  1:45 PM Dismissal & Preschool 1:45 PM Dismissal  NO PM AWP
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240329
+SUMMARY:Good Friday Off/ Easter Break begins School NOT IN SESSION
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240408
+SUMMARY:School Resumes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240409
+SUMMARY:Faculty Meeting - 1:45 PM Dismissal &  Preschool 1:45 PM Dismissal (AWP Available for all)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240420
+SUMMARY:CTK Spring Fling Auction (Party in gym & virtual auction bidding)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240430
+SUMMARY:Tentative date for Confirmation and First Holy Communion at the Cathedral for 3rd graders of CTK
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240501
+SUMMARY:8th Grade Ribbon Ceremony 8:30 AM Mass
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240502
+SUMMARY:May Crowning (Church) 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240507
+SUMMARY:Faculty Meeting - 1:45 PM Dismissal &  Preschool 1:45 PM Dismissal (AWP Available for all)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240513
+SUMMARY:Graduation Awards – 1:15 PM – Roesch Hall Parish Center (Last day for 8th graders)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240514
+SUMMARY:8th Grade Graduation Mass 5:30 PM  (AWP until 5:00 PM that evening)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240522
+SUMMARY:Preschool 4’s Graduation in Gym 10:00 AM – NO All-school Mass this day-Friday 24th instead.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240523
+SUMMARY:Last day of preschool classes for the year.  1:45PM Dismissal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240523
+SUMMARY:Records Day 1:45 PM Dismissal  & Preschool 1:45 PM Dismissal  NO PM AWP
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240524
+SUMMARY:Last Day of School, Mass 8:30 AM 1:45 PM Dismissal - Report Cards:–– NO PM AWP Last day of school.
+END:VEVENT
+END:VCALENDAR
